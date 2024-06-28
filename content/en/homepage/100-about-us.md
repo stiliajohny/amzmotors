@@ -1,7 +1,7 @@
 ---
-title: "About Me"
-weight: 99
-header_menu: true
+title: "About Us"
+weight: 100
+header_menu: false
 ---
 
 <!-- 

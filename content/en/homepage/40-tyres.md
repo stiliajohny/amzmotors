@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-weight: 4
+title: "Tyres"
+weight: 40
 header_menu: true
 ---
 

@@ -70,16 +70,23 @@ title = "AMZ Motors - Auto Experts"
 
     [[params.contacts]]
         label = "phone"
-        value = "+44 0 20 8965 2505"
-        url = "tel:+442089652505"
+        value = "020 8965 2505"
+        url = "tel:020 8965 2505"
         icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "amzmotors@yahoo.com"
+        url = "mailto:amzmotors@yahoo.com"
         icon = "fa fa-envelope"
 
+    # Add additional contacts here!
+    [[params.contacts]]
+        label = "address"
+        value = "260 Old Oak Garage, Old Oak Common Ln, North Acton, London NW10 6DT"
+        url = "https://g.co/kgs/1SDg9Sw"
+        icon = "fa fa-map"
+  
     # Add additional contacts here!
     # [[params.contacts]]
     #     label = ""

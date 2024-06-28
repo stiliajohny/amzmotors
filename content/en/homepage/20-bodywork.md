@@ -1,8 +1,8 @@
 ---
-title: "The Services we offer"
-header_menu_title: "Services"
-navigation_menu_title: "Our Services"
-weight: 2
+title: "BodyWork"
+header_menu_title: "BodyWork"
+navigation_menu_title: "BodyWork"
+weight: 20
 header_menu: true
 ---
 
