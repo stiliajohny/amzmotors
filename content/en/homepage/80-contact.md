@@ -6,6 +6,4 @@ header_menu: true
 
 {{<contact_list>}}
 
-Let's get in touch!
-
-{{< mailchimp_form >}}
+Request a [Call Back](/booking)
