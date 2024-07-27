@@ -7,6 +7,9 @@ header_menu: true
 ---
 
 **Comprehensive List of Services:**
+<!-- add an phone icon  -->
+
+**📞 Request a [Call Back](/booking)**
 
 - **Repairs:**
   - Cars, Bikes, and Vans
@@ -17,12 +20,16 @@ header_menu: true
   - Electrical System Repairs
   - Cooling System Repairs
 
-- **Tyre Fitting:**
+- **Tyre Services:**
   - Wide Range of Tyres for All Vehicles
-  - Balancing and Alignment
+  - Tyre Fitting and Replacement
+  - Wheel Balancing
+  - Alignment Services
   - Seasonal Tyre Change
   - Puncture Repairs
   - Tyre Pressure Monitoring System (TPMS) Services
+  - Performance Tyres Installation
+  - Tyre Disposal
 
 - **MOT Testing:**
   - Comprehensive Checks for Cars, Bikes, and Vans
@@ -47,4 +54,3 @@ header_menu: true
   - Towing and Breakdown Assistance
   - Fleet Maintenance Services
 
-Click [here](/contact) to book an appointment or get a quote for our services.

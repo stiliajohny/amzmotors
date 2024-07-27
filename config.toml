@@ -18,7 +18,8 @@ title = "AMZ Motors - Auto Experts"
 [params]
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/favicon.png"
+    favicon = "images/favicon.ico"
+    header_logo = "images/logo.png"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
@@ -30,15 +31,15 @@ title = "AMZ Motors - Auto Experts"
     # Ideal images are homogenous around the centre and contrasting to the text.
     # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
     # see _index.md header_headline and header_subheadline
-    title_guard = false
+    title_guard = true
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "AMZ Motors - Auto Experts"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Auto Experts"
 
     # Show a menu of languages available
     language_menu = false
@@ -60,7 +61,7 @@ title = "AMZ Motors - Auto Experts"
 
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
-    showContactIcons = false
+    showContactIcons = true
 
     # Show links indicated with footer_menu and footer_menu_title in the footer of the page
     showFooterLinks = true

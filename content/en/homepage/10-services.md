@@ -8,7 +8,7 @@ header_menu: true
 
 **Services We Offer:**
 
-Click [here](/services) for a comprehensive list of services.
+📋 Click [here](/services) for a comprehensive list of services.
 
 - **Repairs:**
   - Cars, Bikes, and Vans
